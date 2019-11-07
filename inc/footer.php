@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Stéphanie Miguet 2017</span>
+                    <span class="copyright">Copyright &copy; Stéphanie Miguet 2019</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -423,6 +423,60 @@
                                 <p class="item-intro text-muted"></p>
                                 <img class="img-responsive img-centered" src="img/collaboration/restaurant/chef.jpeg" alt="murs avec tableaux">
                                 <p>Une série de silhouettes de grands chefs de la gastronomie française créée pour le bistrot gastronomique de La Seyne sur Mer, en collaboration avec le Studio Divo, architectes d'intérieur à Lyon. 2015.</p>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Collaboration Modal 114 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal114" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h3>Carte de voeux</h3>
+                                <p class="item-intro text-muted"></p>
+                                <img class="img-responsive img-centered" src="img/collaboration/carte2/carte.jpg" alt="carte de voeux">
+                                <p>Réalisation de la carte de voeux 2019 de la banque Pictet, à Genève. Mise en oeuvre GA-Z Design à Zurich, tirage en découpage laser 40 000 exemplaires.</p>
+                                <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Collaboration Modal 115 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal115" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal">
+                    <div class="lr">
+                        <div class="rl">
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="modal-body">
+                                <h3>Lucien Mainssieux</h3>
+                                <p class="item-intro text-muted"></p>
+                                <img class="img-responsive img-centered" src="img/collaboration/musee/entree-musee.jpg" alt="entree de musee avec tableaux">
+                                <p>Série de portraits à la silhouette illustrant la vie du peintre Lucien Mainssieux, pour le Musée Mainssieux de Voiron.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                             </div>
                         </div>

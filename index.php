@@ -208,6 +208,24 @@
           </div>
         </div>
 
+        <div class="item">
+          <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
+              <img src="img/collaboration/carte2/carte.jpg" class="img-responsive" alt="" style="height:600px; width:auto; margin-left: auto; margin-right:auto; text-align:center;">
+          </a>
+          <div class="carousel-caption">
+            <h3>Carte de voeux</h3>
+          </div>
+        </div>
+
+        <div class="item">
+          <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
+              <img src="img/collaboration/musee/entree-musee.jpg" class="img-responsive" alt="" style="height:600px; width:auto; margin-left: auto; margin-right:auto; text-align:center;">
+          </a>
+          <div class="carousel-caption">
+            <h3>Lucien Mainssieux</h3>
+          </div>
+        </div>
+
       </div>
 
       <!-- Left and right controls -->
