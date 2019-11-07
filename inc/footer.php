@@ -475,7 +475,7 @@
                             <div class="modal-body">
                                 <h3>Lucien Mainssieux</h3>
                                 <p class="item-intro text-muted"></p>
-                                <img class="img-responsive img-centered" src="img/collaboration/musee/entree-musee.jpg" alt="entree de musee avec tableaux">
+                                <img class="img-responsive img-centered" src="img/collaboration/musee/entree.jpg" alt="entree de musee avec tableaux">
                                 <p>Série de portraits à la silhouette illustrant la vie du peintre Lucien Mainssieux, pour le Musée Mainssieux de Voiron.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                             </div>

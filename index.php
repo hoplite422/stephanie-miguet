@@ -167,6 +167,8 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
       </ol>
 
       <!-- Wrapper for slides -->
@@ -209,7 +211,7 @@
         </div>
 
         <div class="item">
-          <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
+          <a href="#portfolioModal114" class="portfolio-link" data-toggle="modal">
               <img src="img/collaboration/carte2/carte.jpg" class="img-responsive" alt="" style="height:600px; width:auto; margin-left: auto; margin-right:auto; text-align:center;">
           </a>
           <div class="carousel-caption">
@@ -218,8 +220,8 @@
         </div>
 
         <div class="item">
-          <a href="#portfolioModal13" class="portfolio-link" data-toggle="modal">
-              <img src="img/collaboration/musee/entree-musee.jpg" class="img-responsive" alt="" style="height:600px; width:auto; margin-left: auto; margin-right:auto; text-align:center;">
+          <a href="#portfolioModal115" class="portfolio-link" data-toggle="modal">
+              <img src="img/collaboration/musee/entree.jpg" class="img-responsive" alt="" style="height:600px; width:auto; margin-left: auto; margin-right:auto; text-align:center;">
           </a>
           <div class="carousel-caption">
             <h3>Lucien Mainssieux</h3>
